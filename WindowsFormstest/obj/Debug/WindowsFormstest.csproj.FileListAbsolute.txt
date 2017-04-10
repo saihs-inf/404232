@@ -1,0 +1,9 @@
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.exe.config
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.exe
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\bin\Debug\WindowsFormstest.pdb
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csprojResolveAssemblyReference.cache
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Form1.resources
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.Properties.Resources.resources
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csproj.GenerateResource.Cache
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.exe
+C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.pdb
