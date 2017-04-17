@@ -7,3 +7,6 @@ C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsF
 C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.csproj.GenerateResource.Cache
 C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.exe
 C:\Users\INF2A-user\Desktop\WindowsFormstest\WindowsFormstest\obj\Debug\WindowsFormstest.pdb
+C:\Users\INF2A-user\Desktop\404232\WindowsFormstest\bin\Debug\WindowsFormstest.exe.config
+C:\Users\INF2A-user\Desktop\404232\WindowsFormstest\obj\Debug\WindowsFormstest.exe
+C:\Users\INF2A-user\Desktop\404232\WindowsFormstest\obj\Debug\WindowsFormstest.pdb
