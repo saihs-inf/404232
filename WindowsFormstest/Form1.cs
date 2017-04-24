@@ -31,5 +31,10 @@ namespace WindowsFormstest
         {
             MessageBox.Show("HI");
         }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label1.Text = "hihihihi";
+        }
     }
 }
